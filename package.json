@@ -3,6 +3,8 @@
     "start": "npx tailwindcss -i ./src/css/style.css -o ./src/dist/output.css --watch"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.12",
+    "postcss": "^8.4.16",
     "tailwindcss": "^3.1.8"
   }
 }
